@@ -15,4 +15,4 @@ Micro USB cable
 (Optional)Bluetooth 2.1+, via adapter or built in pc [(My recommendation)](http://www.amazon.com/gp/product/B004LNXO28/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) (Toshiba's bluetooth & Bluetooth adapters using CSR currently does not work)
 
 Note: Hide DS4 currently doesn't work on Windows 10 without a workaround (disabling Network list service and restarting, but this causes serious issues with windows, use caution)
-You can find more info out at [ds4windows.com](http://ds4windows.com)
+You can find more info out at [ds4windows.com](https://ds4tool.com/)
